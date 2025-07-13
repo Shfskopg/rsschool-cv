@@ -6,8 +6,6 @@ Junior Frontend разработчик с опытом в верстке и Java
 
 ## Навыки
 - HTML5, CSS3, SCSS
-- JavaScript (ES6+)
-- React
 - Git
 - Figma
 
